@@ -1,9 +1,5 @@
 #!usr/bin/python 
 #coded by badreddine chamkhi
-#AlfallagaTeam [ Fallag Error105 ]
-#Fuck Donald Trump 
-#Alquds Is the Eternal Capital Of Pelastine 
-#Done While listening to The official rhyme of pelastine <3 
 #import zone  
 import os
 import argparse
